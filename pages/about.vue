@@ -28,7 +28,13 @@
     <h2 class="font-bold text-lg mx-auto mb-2 mt-4">Something is incorrect</h2>
     <p>
       If you notice anything is incorrect, please notify me by raising an issue
-      in the github repo for this site.
+      in the
+      <a
+        href="https://github.com/PatrickByrn/learning-navajo"
+        class="text-emerald-600 hover:text-emerald-900 underline"
+        >github repo</a
+      >
+      for this site.
     </p>
     <h2 class="font-bold text-lg mx-auto mb-2 mt-4">How can I contribute?</h2>
     <p>
