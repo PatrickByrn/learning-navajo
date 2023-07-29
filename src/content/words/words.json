@@ -1,0 +1,2452 @@
+{
+  "words": [
+    {
+      "id": "recaeM82Vg9dNOVYa",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "abid-stomache-word.mp3",
+        "navajo": "abid",
+        "english": "stomach",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recukauxdvlCZLevo",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "awos-shoulder-word.mp3",
+        "navajo": "awos",
+        "english": "shoulder",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recVDkpviHkv7YQTs",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dikos-cough-word.mp3",
+        "navajo": "dikos",
+        "english": "cough",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recxH916fQaVQzxic",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "gad-juniper-word.mp3",
+        "navajo": "gad",
+        "english": "juniper",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recTRejTaFDgKlpBJ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "gah-rabbit-word.mp3",
+        "navajo": "gah",
+        "english": "rabbit",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "rec8vAlR6Nxjqdnax",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nahalin-resembles-word.mp3",
+        "navajo": "nahalin",
+        "english": "it resembles ",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recZzI9Xvf5IyyfWm",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sho-frost-word.mp3",
+        "navajo": "sho",
+        "english": "frost",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recLbhgGRv2wgE4Tv",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sin-song-word.mp3",
+        "navajo": "sin",
+        "english": "song",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recYK1TK42WPAo3o7",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sis-belt-word.mp3",
+        "navajo": "sis",
+        "english": "belt",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recb9aC4GUTDCTkfO",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sodizin-prayer-word.mp3",
+        "navajo": "sodizin",
+        "english": "prayer",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recbZKNFVLFiQggqU",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tse-rock-word.mp3",
+        "navajo": "tsé",
+        "english": "rock",
+        "pagesConversation": "3"
+      }
+    },
+    {
+      "id": "recQVQCmjNHe1Mm9F",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "baa-about-word.mp3",
+        "navajo": "baa",
+        "english": "about it",
+        "pagesConversation": "4"
+      }
+    },
+    {
+      "id": "recW2Vh7V1Lh25HXd",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "naadiin-20-word.mp3",
+        "navajo": "naadiin",
+        "english": "twenty (20)",
+        "pagesConversation": "4"
+      }
+    },
+    {
+      "id": "recK0qtz4Ky1YDP9k",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nee-concerning-word.mp3",
+        "navajo": "nee",
+        "english": "concerning you",
+        "pagesConversation": "4"
+      }
+    },
+    {
+      "id": "recMuWEIDblwbq8Ej",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "siil-steam-word.mp3",
+        "navajo": "siil",
+        "english": "steam",
+        "pagesConversation": "4"
+      }
+    },
+    {
+      "id": "recAMBawFFVNjz21M",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atiin-road-word.mp3",
+        "navajo": "atiin",
+        "english": "road",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "rec3DYxX9IQYpZD3S",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "biniinaa-because-word.mp3",
+        "navajo": "biniinaa",
+        "english": "because",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "recMg8IJ52l6fuUQ5",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bizaad-language-word.mp3",
+        "navajo": "bizaad",
+        "english": "their language",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "recF1LFML26XCFIp9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "doo-will-word.mp3",
+        "navajo": "doo",
+        "english": "it will be",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "reczuQCNUKhcKPSZq",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hastiin-man-word.mp3",
+        "navajo": "hastiin",
+        "english": "man",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "recPOAbqVRxxSK4hF",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hoozdoh-phoenix-word.mp3",
+        "navajo": "hoozdoh",
+        "english": "phoenix, az",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "reciwaZHLppyPJ6BX",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tseebii-8-word.mp3",
+        "navajo": "tseebíí",
+        "english": "eight (8)",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "recBf3nKvyobubhpn",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "yiikah-forward-word.mp3",
+        "navajo": "yiikah",
+        "english": "go forward",
+        "pagesConversation": "5"
+      }
+    },
+    {
+      "id": "recE15f0NqR66rcXZ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "abini-morning-word.mp3",
+        "navajo": "abíní",
+        "english": "morning",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "recFva7e9XbdwUjiT",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "akondi-however-word.mp3",
+        "navajo": "ákondi",
+        "english": "however",
+        "pagesConversation": "6,17"
+      }
+    },
+    {
+      "id": "recDSHhf6kMkf1utX",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "beehozin-known-word.mp3",
+        "navajo": "bééhózin",
+        "english": "it is known",
+        "pagesConversation": "6,17"
+      }
+    },
+    {
+      "id": "recgoR5BeDDAFtif2",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "chidi-car-word.mp3",
+        "navajo": "chidí",
+        "english": "car",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "rec6cXFgnAwc1fvAw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dine-people-word.mp3",
+        "navajo": "diné",
+        "english": "people; Actual name of Navajo people",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "recxmMlNI0AgqbwBl",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "golchoon-quilt-word.mp3",
+        "navajo": "golchóón",
+        "english": "quilt",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "recRJXMPxsnG0SPjy",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nanine-playing-word.mp3",
+        "navajo": "naniné",
+        "english": "you are playing",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "rec4rBHqSpcWzVbAY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shijaad-leg-word.mp3",
+        "navajo": "shijáád",
+        "english": "my leg",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "recWhlf7UHxOtlwop",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "wolye-named-word.mp3",
+        "navajo": "wolyé",
+        "english": "it is named",
+        "pagesConversation": "6"
+      }
+    },
+    {
+      "id": "recL4ZUnJkhJuYeDS",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dii-4-word.mp3",
+        "navajo": "dį́į́'",
+        "english": "four",
+        "pagesConversation": "7"
+      }
+    },
+    {
+      "id": "recWyLunWdujfT47S",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sees-wart-word.mp3",
+        "navajo": "sęęs",
+        "english": "wart,",
+        "pagesConversation": "7"
+      }
+    },
+    {
+      "id": "recqNm9Bs31GMqB52",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shi-i-word.mp3",
+        "navajo": "shí",
+        "english": "i",
+        "pagesConversation": "7"
+      }
+    },
+    {
+      "id": "recWJ9SrERoPfrQ79",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bizees-wart-word.mp3",
+        "navajo": "bizęęs",
+        "english": "his wart",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recbMNqaV4BsNGLGC",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hala-confusion-word.mp3",
+        "navajo": "halą́",
+        "english": "confusion ",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recDFDzcwLQLWPhXe",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "holo-exists-word.mp3",
+        "navajo": "hólǫ́",
+        "english": "it exists",
+        "pagesConversation": "8,17"
+      }
+    },
+    {
+      "id": "rech9IuRBrtNPnk9i",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ili-valuable-word.mp3",
+        "navajo": "ílį́",
+        "english": "valuable",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recnBiR2DSSJKzIUh",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ji-day-word.mp3",
+        "navajo": "jį́",
+        "english": "day",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recHqeafuzxWz3ku5",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nahaloo-resembles-word.mp3",
+        "navajo": "nahalǫǫ",
+        "english": "it resembles it",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recatICaVBNxZMero",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shii-probably-word.mp3",
+        "navajo": "shį́į́",
+        "english": "probably",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recs8r1JG9FpF02Cv",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sizi-standing-word.mp3",
+        "navajo": "sizį́",
+        "english": "she is standing",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recxLRH9hOVEQiA1r",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bee-concerning-word.mp3",
+        "navajo": "bee",
+        "english": "concerning it",
+        "pagesConversation": "4,5"
+      }
+    },
+    {
+      "id": "recRw8bsuq8NcyPgR",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dooda-no-word.mp3",
+        "navajo": "dooda",
+        "english": "no",
+        "pagesConversation": "4,5"
+      }
+    },
+    {
+      "id": "rec0z3ce7JsTLfvQ2",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "saad-word-word.mp3",
+        "navajo": "saad",
+        "english": "word; language",
+        "pagesConversation": "4,5"
+      }
+    },
+    {
+      "id": "recSDq1GrwT58TGdT",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "biih-into-word.mp3",
+        "navajo": "biih",
+        "english": "into it",
+        "pagesConversation": "4,7"
+      }
+    },
+    {
+      "id": "recGfpz7jSsCOhE1B",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dibe-sheep-word.mp3",
+        "navajo": "dibé",
+        "english": "sheep",
+        "pagesConversation": "5,5"
+      }
+    },
+    {
+      "id": "recxCjaS1CeEdoByT",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "adin-nothing-word.mp3",
+        "navajo": "ádin",
+        "english": "it is absent; nothing",
+        "pagesConversation": "5,6"
+      }
+    },
+    {
+      "id": "rec7Cxl1WyC0xmVat",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hola-dont-know-word.mp3",
+        "navajo": "hóla",
+        "english": "I don't know",
+        "pagesConversation": "5,6,17"
+      }
+    },
+    {
+      "id": "receJ6ewAWZ5evT8v",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "baa-because-word.mp3",
+        "navajo": "bąą",
+        "english": "because of it",
+        "pagesConversation": "7,8"
+      }
+    },
+    {
+      "id": "recj9L0ebyedBcWYO",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "biih-deer-word.mp3",
+        "navajo": "bįįh",
+        "english": "deer",
+        "pagesConversation": "7,8"
+      }
+    },
+    {
+      "id": "rec3rufR3e6Vre8k4",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shi-summer-word.mp3",
+        "navajo": "shį́",
+        "english": "summer",
+        "pagesConversation": "7,8"
+      }
+    },
+    {
+      "id": "recB0LC3s2UdtI6vx",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "yischooh-ruining-word.mp3",
+        "navajo": "yishchǫǫh",
+        "english": "i am ruining it",
+        "pagesConversation": "7,8"
+      }
+    },
+    {
+      "id": "recmUBUfA61ZBett6",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shash-bear-word.mp3",
+        "navajo": "shash",
+        "english": "bear"
+      }
+    },
+    {
+      "id": "recYAOaPUuydHKCCY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "leh-usually-word.mp3",
+        "navajo": "łeh",
+        "english": "usually",
+        "pagesConversation": "8,26"
+      }
+    },
+    {
+      "id": "recizXgIlqjmJ48H6",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ditlee-wet-word.mp3",
+        "navajo": "ditłéé'",
+        "english": "it is wet",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "rec7lmzPgBLpcMTk9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nohli-playing-word.mp3",
+        "navajo": "nohłį́",
+        "english": "you are playing",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recLLrEJOhg9zTajp",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tlah-ointment-word.mp3",
+        "navajo": "tłah",
+        "english": "ointment",
+        "pagesConversation": "8"
+      }
+    },
+    {
+      "id": "recEfvzCpqfsElDCM",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bil-will-word.mp3",
+        "navajo": "bił",
+        "english": "with it",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recXMA1LfhaadUlYg",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "lid-smoke-word.mp3",
+        "navajo": "łid",
+        "english": "smoke",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recBdaDlXIk2u9JLd",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "lood-sore-word.mp3",
+        "navajo": "łóód",
+        "english": "a sore",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recV9pUMRbuCyzHBE",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "niiltlah-stopped-word.mp3",
+        "navajo": "niiltłah",
+        "english": "it stopped",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recXvu024nACyu20P",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dideeshtlil-light-word.mp3",
+        "navajo": "dideeshtłił",
+        "english": "i will light it",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recLHSniiH7HOPso1",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shil-me-word.mp3",
+        "navajo": "shił",
+        "english": "with me",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "rec4iFhHKzQZJrvUT",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nihil-us-word.mp3",
+        "navajo": "nihił",
+        "english": "with us",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recEfPn7ov00h7PWw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nishli-i-word.mp3",
+        "navajo": "nishłį́",
+        "english": "I am",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "rec1HGq1jghnaCqqX",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "didiiltlil-light-word.mp3",
+        "navajo": "didííłtłił",
+        "english": "you will light it",
+        "pagesConversation": "9"
+      }
+    },
+    {
+      "id": "recbk2VQgTdx7PycF",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shizhee-father-word.mp3",
+        "navajo": "shizhé'é",
+        "english": "my father",
+        "pagesConversation": "10"
+      }
+    },
+    {
+      "id": "recUj4UrEmmZ4gbU9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "eeah-west-word.mp3",
+        "navajo": "e'e'aah",
+        "english": "west",
+        "pagesConversation": "10,11"
+      }
+    },
+    {
+      "id": "recaQQwi7zuLo6VVp",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "la-one-word.mp3",
+        "navajo": "ła'",
+        "english": "one, some",
+        "pagesConversation": "10"
+      }
+    },
+    {
+      "id": "recw1dnlRdShZlePJ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "loo-fish-word.mp3",
+        "navajo": "łóó'",
+        "english": "fish",
+        "pagesConversation": "10,11"
+      }
+    },
+    {
+      "id": "recYCq6jX4sfaaZYz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "na-here-word.mp3",
+        "navajo": "na'",
+        "english": "here",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "rec30D6QBzmVm96w0",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ge-quiet-word.mp3",
+        "navajo": "ge'",
+        "english": "be quiet",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "recUJXzdWogfcZ3pk",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "lii-horse-word.mp3",
+        "navajo": "łį́į́'",
+        "english": "horse",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "recqUMq1YydIzTjEm",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "haaaah-east-word.mp3",
+        "navajo": "ha'a'aah",
+        "english": "east",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "recqY3vzAOCST6oIv",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "laaa-fine-word.mp3",
+        "navajo": "lą́'ąą",
+        "english": "fine",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "recXIyBSvUqplYO1O",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "iiia-evening-word.mp3",
+        "navajo": "i'íí'ą́",
+        "english": "evening",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "rech8pe6Us8OcCra2",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dinee-people-word.mp3",
+        "navajo": "dine'é",
+        "english": "people",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "recCBKUWyUH1ma3g6",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ee-clothes-word.mp3",
+        "navajo": "éé'",
+        "english": "clothes",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "reckneX9Nck5D8vy1",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bitoo-stew-word.mp3",
+        "navajo": "bitoo'",
+        "english": "stew",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "rec3KNCurQmSwWkdR",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "baaan-addition-word.mp3",
+        "navajo": "ba'aan",
+        "english": "in addition",
+        "pagesConversation": "11"
+      }
+    },
+    {
+      "id": "recf3EcU5RLnNxo5k",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "taa-just-word.mp3",
+        "navajo": "t'áá",
+        "english": "just",
+        "pagesConversation": "12"
+      }
+    },
+    {
+      "id": "recBUMO565VnquS6r",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tsitsaa-box-word.mp3",
+        "navajo": "tsits'aa'",
+        "english": "box",
+        "pagesConversation": "12"
+      }
+    },
+    {
+      "id": "rec1sec7DsfS93gEw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tsida-very-word.mp3",
+        "navajo": "ts'ídá",
+        "english": "very, really",
+        "pagesConversation": "12"
+      }
+    },
+    {
+      "id": "recDGnhSe6ttqQwLv",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nantlah-difficult-word.mp3",
+        "navajo": "nantł'ah",
+        "english": "it is difficult",
+        "pagesConversation": "12,26"
+      }
+    },
+    {
+      "id": "recLYljfbbVL8d5d6",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bikeh-according-word.mp3",
+        "navajo": "bik'eh",
+        "english": "according to him",
+        "pagesConversation": "12,26"
+      }
+    },
+    {
+      "id": "recOQIsihqw2cE1de",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "chiyaan-food-word.mp3",
+        "navajo": "ch'iyáán",
+        "english": "food",
+        "pagesConversation": "12,13"
+      }
+    },
+    {
+      "id": "receNvrm3RSD4jcB7",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ate-itis-word.mp3",
+        "navajo": "át'é",
+        "english": "it is",
+        "pagesConversation": "12,13"
+      }
+    },
+    {
+      "id": "recxUs0LEfOUH6uOY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "kad-now-word.mp3",
+        "navajo": "k'ad",
+        "english": "now",
+        "pagesConversation": "12,13"
+      }
+    },
+    {
+      "id": "recpQGn30882wv2jw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tlool-rope-word.mp3",
+        "navajo": "tł'óół",
+        "english": "rope",
+        "pagesConversation": "12"
+      }
+    },
+    {
+      "id": "recMM6YVLGt4F1FCD",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "chah-hat-word.mp3",
+        "navajo": "ch'ah",
+        "english": "hat",
+        "pagesConversation": "12,13"
+      }
+    },
+    {
+      "id": "recIqEvaZZFa171aI",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "chal-frog-word.mp3",
+        "navajo": "ch'ał",
+        "english": "frog",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recbavFUadC1y7l1J",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "too-just-word.mp3",
+        "navajo": "t'óó",
+        "english": "just",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "receR90FOPDk6hsUV",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "kaa-arrow-word.mp3",
+        "navajo": "k'aa'",
+        "english": "arrow",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recE3aTaE757FDQAN",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "taaaanii-truly-word.mp3",
+        "navajo": "t'áá'aaníí",
+        "english": "truly",
+        "pagesConversation": "13,22"
+      }
+    },
+    {
+      "id": "rec5M5eyeQ4E3hObz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tsaa-basket-word.mp3",
+        "navajo": "ts'aa'",
+        "english": "basket",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recI5kjNbuekFx2cJ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tsin-bone-word.mp3",
+        "navajo": "ts'in",
+        "english": "bone",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recy0MmjkOhEydahh",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "biki-onit-word.mp3",
+        "navajo": "bik'i",
+        "english": "on it",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "rec1BAOVWHfNsVmrJ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "akaan-flour-word.mp3",
+        "navajo": "ak'áán",
+        "english": "flour",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recEYgWcMbYRyzbTa",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atlaa-rump-word.mp3",
+        "navajo": "atł'aa'",
+        "english": "rump",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recau161UjpSLirLM",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "chosh-bug-word.mp3",
+        "navajo": "ch'osh",
+        "english": "bug",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recqS9zRqvmGs9bhi",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tsah-sage-word.mp3",
+        "navajo": "ts'ah",
+        "english": "sage",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recCOhewNPoNGJ7dr",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nishtlah-left-word.mp3",
+        "navajo": "nishtł'ah",
+        "english": "left-handed",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "rec0JwJETQJxwMC3X",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bitsiini-skinny-word.mp3",
+        "navajo": "bits'iiní",
+        "english": "she is skinny",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "rec5hFCrhrlIJ2hhw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "cheeh-vain-word.mp3",
+        "navajo": "ch'ééh",
+        "english": "in vain",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recU13Shmu5fvTkIX",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hwiiti-seen-word.mp3",
+        "navajo": "hwiit'į́",
+        "english": "we've seen it",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recnCK9waDCjfaedY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atlo-weaving-word.mp3",
+        "navajo": "atł'o",
+        "english": "she is weaving",
+        "pagesConversation": "13"
+      }
+    },
+    {
+      "id": "recLYLZJ14hfriDjQ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "deesdoi-hot-word.mp3",
+        "navajo": "deesdoi",
+        "english": "it is hot",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recJsxR1zntWgwnbU",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "haitao-how-word.mp3",
+        "navajo": "hait'áo",
+        "english": "how",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recpRejlcW2FsqEv8",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "beeldlei-blanket-word.mp3",
+        "navajo": "beeldléí",
+        "english": "blanket",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recn5TRigUcTJ0i53",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ei-that-word.mp3",
+        "navajo": "éí",
+        "english": "that",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "reckbKlqCm8glPg91",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "haigo-winter-word.mp3",
+        "navajo": "haigo",
+        "english": "winter",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recUAdhgGrL0nIbSy",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tooahayoi-many-word.mp3",
+        "navajo": "t'óó'ahayóí",
+        "english": "many",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recqwdHGvuCioOELc",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "choiniili-use-word.mp3",
+        "navajo": "choiniil'į́",
+        "english": "we use it",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recSnGEMhTzvgHChw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sei-sand-word.mp3",
+        "navajo": "séí",
+        "english": "sand",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recVDdvwQkSUpOqXA",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "daolye-called-word.mp3",
+        "navajo": "daolyé",
+        "english": "they are called",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recBLzNpsbu75J3A8",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "adaohleeh-make-word.mp3",
+        "navajo": "ádaohłééh",
+        "english": "you make it",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "rec5HmjCauYkxFqji",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "haish-who-word.mp3",
+        "navajo": "háísh",
+        "english": "who",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recRO0cBWEpjfFzTT",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atao-being-word.mp3",
+        "navajo": "át'áo",
+        "english": "being",
+        "pagesConversation": "14"
+      }
+    },
+    {
+      "id": "recgkpNrAki4S8Va1",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ke-shoes-word.mp3",
+        "navajo": "ké",
+        "english": "shoes",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recBuubGlyfvYjdTZ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ti-go-word.mp3",
+        "navajo": "tí",
+        "english": "let's go",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recfRc1cAhqtsNvBr",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nihi-us-word.mp3",
+        "navajo": "nihí",
+        "english": "us",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "rec6hB6cU3d3w8LOt",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "to-water-word.mp3",
+        "navajo": "tó",
+        "english": "water",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "rec8fkzVXpfCOtlN3",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "gohweeh-coffee-word.mp3",
+        "navajo": "gohwééh",
+        "english": "coffee",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recjXxWsfga1qfSUD",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hooghan-home-word.mp3",
+        "navajo": "hooghan",
+        "english": "home",
+        "pagesConversation": "16,20"
+      }
+    },
+    {
+      "id": "recIIaSyR71VeqATi",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "damoogo-sunday-word.mp3",
+        "navajo": "damóogo",
+        "english": "on Sunday",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recEWsnYQUeJAU671",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "goo-to-word.mp3",
+        "navajo": "góó",
+        "english": "to",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recOLP9MAddsS99tF",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bikeyah-land-word.mp3",
+        "navajo": "bikéyah",
+        "english": "their land",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recte6zRzxGbYB2Tr",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "likan-sweet-word.mp3",
+        "navajo": "łikan",
+        "english": "it is sweet",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recSnJlIkwST7gnHh",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "aheeh-gratitude-word.mp3",
+        "navajo": "ahééh",
+        "english": "gratitude",
+        "pagesConversation": "17,26"
+      }
+    },
+    {
+      "id": "recjRikK8hvxzvAR7",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "taaako-ok-word.mp3",
+        "navajo": "t'áá'áko",
+        "english": "o.k.",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recSfwE3zygpcLJFN",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ashiike-boys-word.mp3",
+        "navajo": "ashiiké",
+        "english": "boys",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "rec3YXHbcA761wcrU",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "kodi-here-word.mp3",
+        "navajo": "kodi",
+        "english": "here",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "rec2j9B84ExDEHvoI",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "yaahooteeh-nice-word.mp3",
+        "navajo": "yá'áhoot'ééh",
+        "english": "nice area",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "rec2NH9aNZgrBIfeA",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bikee-shoes-word.mp3",
+        "navajo": "bikee'",
+        "english": "his shoes",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recQoFYmDC3WDYtxa",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tin-ice-word.mp3",
+        "navajo": "tin",
+        "english": "ice",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recWYzfkheRhKnV5i",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ahehee-thank-word.mp3",
+        "navajo": "ahéhee'",
+        "english": "thank you",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recnG1GwcqmvykfaK",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nahaltin-rain-word.mp3",
+        "navajo": "nahałtin",
+        "english": "it is raining",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recWZ2JJHL1YpcLNm",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "beegashii-cows-word.mp3",
+        "navajo": "béégashii",
+        "english": "cows",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "rect9UfN7M1Qw6CHD",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "agaan-arm-word.mp3",
+        "navajo": "agaan",
+        "english": "arm",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "rech0BUM7UssIW6e3",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "doodago-or-word.mp3",
+        "navajo": "doodago",
+        "english": "or",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recOQGVw15PtfrxTz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atoo-stew-word.mp3",
+        "navajo": "atoo'",
+        "english": "stew",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recUwHiaj212wLY0p",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "todilhil-whisky-word.mp3",
+        "navajo": "tódiłhił",
+        "english": "whiskey",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recaFtoKoUXWSljal",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "yeigo-diligently-word.mp3",
+        "navajo": "yéigo",
+        "english": "diligently",
+        "pagesConversation": "16,18"
+      }
+    },
+    {
+      "id": "recJMhIpcG1nxJKeG",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "mandagiiya-butter-word.mp3",
+        "navajo": "mandagíiya",
+        "english": "butter",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recFygLenbpPZ1tq7",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "kin-building-word.mp3",
+        "navajo": "kin",
+        "english": "building",
+        "pagesConversation": "16"
+      }
+    },
+    {
+      "id": "recRbkLMtlkC5EA9a",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hozho-happiness-word.mp3",
+        "navajo": "hózhǫ́",
+        "english": "happiness",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recomcnqmewctSBYg",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ateeke-girls-word.mp3",
+        "navajo": "at'ééké",
+        "english": "girls",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recOTMFBZMPSp54MY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hoyee-dangerous-word.mp3",
+        "navajo": "hóyéé",
+        "english": "dangerous",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recxY3vcmMQ56o1nz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dahiistlo-rug-word.mp3",
+        "navajo": "dahiistłǫ́",
+        "english": "rug or loom",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recjtZtQjoaeld9wd",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "gi-at-word.mp3",
+        "navajo": "gi",
+        "english": "suffix at",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recujBdCPDDhtEe4L",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hago-come-word.mp3",
+        "navajo": "hágo",
+        "english": "come here",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recd1TP1jlUjXWm6b",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ligai-white-word.mp3",
+        "navajo": "łigai",
+        "english": "it is white",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recmI7HkBAmoNUM1Y",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "telii-donkey-word.mp3",
+        "navajo": "télii",
+        "english": "donkey",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "rec8hiPp21U9Gi0r8",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "konee-here-word.mp3",
+        "navajo": "kóne'é",
+        "english": "in here",
+        "pagesConversation": "17"
+      }
+    },
+    {
+      "id": "recIYEVjyB1fLnuw9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "aadi-there-word.mp3",
+        "navajo": "áadi",
+        "english": "there",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "reczbh3JXGPMwr4lw",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "naataanii-leader-word.mp3",
+        "navajo": "naat'aanii",
+        "english": "leader",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recjeq5bvQReuxVCq",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "litsoosh-yellow-word.mp3",
+        "navajo": "łitsoósh",
+        "english": "yellow?",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recWr3TLkQrKlNnZR",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bisoodi-pig-word.mp3",
+        "navajo": "bisóodi",
+        "english": "pig",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recSPsb3LPWWSh3mh",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "hagoonee-bye-word.mp3",
+        "navajo": "hágoónee'",
+        "english": "good bye",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "reckNPWx943ZtNm5y",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "akoosh-so-word.mp3",
+        "navajo": "ákoósh",
+        "english": "so?",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "rec3XgNKZQ6tpUZqe",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bilagaana-anglo-word.mp3",
+        "navajo": "bilagáana",
+        "english": "Anglo",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recmXD6aU0oqaNjLI",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "doosh-na-word.mp3",
+        "navajo": "yiską́ągoósh",
+        "english": "tomorrow?",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "reclYtaAfBTYuaVEk",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "taadoo-dont-word.mp3",
+        "navajo": "t'áadoo",
+        "english": "don't",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recE0kwcPlZtXQxAi",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "beeso-money-word.mp3",
+        "navajo": "béeso",
+        "english": "money",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recNymFzgdVaWLanS",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "niish-you-word.mp3",
+        "navajo": "niísh",
+        "english": "you?",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recBaDJGWPJ3aAPX9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "haadi-where-word.mp3",
+        "navajo": "háadi",
+        "english": "where?",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recQe7g4PQsFxqdmi",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "diidi-this-word.mp3",
+        "navajo": "díidí",
+        "english": "this one",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recmCtbHtd2nIBX7L",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "naakiish-two-word.mp3",
+        "navajo": "naakiísh",
+        "english": "two?",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recD2lLqq4kQxAear",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nleidi-that-word.mp3",
+        "navajo": "ńléidí",
+        "english": "that one",
+        "pagesConversation": "18"
+      }
+    },
+    {
+      "id": "recKeA6WqIr9poQjL",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "baghan-home-word.mp3",
+        "navajo": "baghan",
+        "english": "his home",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recdmdSj3oMajGxhk",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dah-frybread-word.mp3",
+        "navajo": "dah diníilghaazh",
+        "english": "fry bread",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recfmjBOFJuA4uxPy",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bahooghan-house-word.mp3",
+        "navajo": "bá hooghan",
+        "english": "house for it",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recC5PxloE1eKvvY8",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "naagha-walking-word.mp3",
+        "navajo": "naaghá",
+        "english": "he is walking",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recdTvTCFoypMs7ti",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tseghahoodzani-window-word.mp3",
+        "navajo": "Tségháhoodzání",
+        "english": "Window Rock",
+        "pagesConversation": "20,21"
+      }
+    },
+    {
+      "id": "recUZcS7V2sdfVHfl",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bigha-through-word.mp3",
+        "navajo": "bighá",
+        "english": "through it",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recVzbo901NzdGS44",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dzilghai-apache-word.mp3",
+        "navajo": "Dziłghą́'í",
+        "english": "Apache",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recEFgReNly3cCyyz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bighaa-wool-word.mp3",
+        "navajo": "bighaa'",
+        "english": "its wool",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recrVtJQ8eVq12lXK",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ghaaji-october-word.mp3",
+        "navajo": "Ghąąji'",
+        "english": "October",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recq0toLsRJ0CwRd1",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "aghaa-wool-word.mp3",
+        "navajo": "aghaa'",
+        "english": "wool",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "rec9iL9c1VkBgTsQZ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nilghaal-chewing-word.mp3",
+        "navajo": "nilghaał",
+        "english": "he is chewing it",
+        "pagesConversation": "20"
+      }
+    },
+    {
+      "id": "recy0sbfJWase6LNh",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "lizhin-black-word.mp3",
+        "navajo": "łizhin",
+        "english": "black",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "receolLXjrQ7Tpz46",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "litso-yellow-word.mp3",
+        "navajo": "łitso",
+        "english": "yellow",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recGigfp2HRNTi1YU",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "adlaanii-drunk-word.mp3",
+        "navajo": "adláanii",
+        "english": "a drunk",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "reccrFuYDpHhtueSj",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "adziilii-power-word.mp3",
+        "navajo": "adziilii",
+        "english": "power",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recO2XY3RfLzVKoAP",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "asdzaan-woman-word.mp3",
+        "navajo": "asdzáán",
+        "english": "woman",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recWjau74XEsmWae6",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ashdla-five-word.mp3",
+        "navajo": "ashdla'",
+        "english": "five",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recKdHwzwshvx70ES",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atsi-meat-word.mp3",
+        "navajo": "atsj'",
+        "english": "meat",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "rec9nOpfQRsTBytRt",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "asha-eating-word.mp3",
+        "navajo": "ashą́",
+        "english": "I am eating",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recBaVp0lFAt3adWd",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "biniidli-cold-word.mp3",
+        "navajo": "bi'niidlí",
+        "english": "he is cold",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "rec8mkCUiUHEPjRIt",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atsili-brother-word.mp3",
+        "navajo": "atsilí",
+        "english": "younger brother",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recHih2duaRl1ZGfs",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bidziil-strong-word.mp3",
+        "navajo": "bidziil",
+        "english": "he is strong",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recZ0bYxPpz96ogpH",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "azhee-father-word.mp3",
+        "navajo": "azhé'é",
+        "english": "father",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "reczT1HEj6I13hDM9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "iidla-drinking-word.mp3",
+        "navajo": "iidlą́",
+        "english": "we two are drinking",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "rec8j6M9GJJ8TiKKz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bideezhi-sister-word.mp3",
+        "navajo": "bideezhí",
+        "english": "younger sister",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "reczSCMgjDTa6iMPi",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nanizhoozhi-gallup-word.mp3",
+        "navajo": "Na'nízhoozhí",
+        "english": "Gallup",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "rec0gRvOsLy7d4kQj",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "taaaltso-all-word.mp3",
+        "navajo": "t'áá'ałtso",
+        "english": "all of them",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recdxpG9RYzCMLm9T",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nizhoni-pretty-word.mp3",
+        "navajo": "nizhóní",
+        "english": "it is pretty",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recxeUOEmtNl6TFXx",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "taaaniidla-both-word.mp3",
+        "navajo": "t'áá'áníidla",
+        "english": "both of us",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "rec7VqFJvFN4vlQRP",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "tsin-stick-word.mp3",
+        "navajo": "tsin",
+        "english": "stick",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recRIukkI8atoE9D0",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "todineeshzhee-kayenta-word.mp3",
+        "navajo": "Tódínéeshzhee'",
+        "english": "Kayenta",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recbdTfNy1OPNnHAE",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dloo-dog-word.mp3",
+        "navajo": "dlǫ́ǫ́'",
+        "english": "prairie dog",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recf76kIT0t827NRM",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "atsii-hair-word.mp3",
+        "navajo": "atsii'",
+        "english": "hair",
+        "pagesConversation": "21"
+      }
+    },
+    {
+      "id": "recVEW3ZuKPt4wpFQ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dibeniheeadin-sheep-word.mp3",
+        "navajo": "dibé nihee ádin",
+        "english": "we don't have sheep",
+        "pagesConversation": "22"
+      }
+    },
+    {
+      "id": "reccc1hTPE9myJgtE",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "alchinibaaahashya-children-word.mp3",
+        "navajo": "áłchíní baa áhashyą́",
+        "english": "I am taking care of children",
+        "pagesConversation": "22"
+      }
+    },
+    {
+      "id": "recZUiTFi7O8pidKH",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nihikaadiilwol-help-word.mp3",
+        "navajo": "nihíká adíílwoł",
+        "english": "you will help us",
+        "pagesConversation": "22"
+      }
+    },
+    {
+      "id": "recNAuzQwB9RIZdKc",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shikaanilyeed-help-word.mp3",
+        "navajo": "shíká anilyeed",
+        "english": "you help me",
+        "pagesConversation": "22"
+      }
+    },
+    {
+      "id": "recYQBXzLNb3tWwtG",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "beeoholniihii-authority-word.mp3",
+        "navajo": "bee óhólnííhii",
+        "english": "authority",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "recDhLHRn9R5tshXR",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dooaaateeda-open-word.mp3",
+        "navajo": "doo ąą át'ée da",
+        "english": "it is not open",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "reckVlYDdsWm9jIIp",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "diieiya-this-word.mp3",
+        "navajo": "díí éiyá",
+        "english": "this",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "recV1eTVIR0Wbit4t",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nihinaaltsoosaaadaohleeh-books-word.mp3",
+        "navajo": "nihinaaltsoos ąą ádaohłééh",
+        "english": "open your books",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "recc7rNkHeKXQ7vI0",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nihiliibaaadaholya-care-word.mp3",
+        "navajo": "nihilį́į́' baa ádahołyą́",
+        "english": "take care of your animals",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "recqHzc8YQR8u8yw9",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shikaadiilwol-help-word.mp3",
+        "navajo": "shíka' adíílwoł",
+        "english": "you will help me",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "recD7RoLHwHcoUw4i",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "baaaheehdaniidzin-thankful-word.mp3",
+        "navajo": "baa ahééh daniidzin",
+        "english": "we are thankful",
+        "pagesConversation": "23"
+      }
+    },
+    {
+      "id": "recmWzyF4mWc3R7MZ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shidiisxi-killing-word.mp3",
+        "navajo": "shi'diisxį́",
+        "english": "it is killing me",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "recQAZ32Q5Iub2kem",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "sisxe-killing-word.mp3",
+        "navajo": "sisxé",
+        "english": "I am killing it",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "recernrZVvx2LvYFl",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "yiyiisxi-killed-word.mp3",
+        "navajo": "yiyiisxį́",
+        "english": "he killed him",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "recUTKiO5pEZ215ym",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nideesxis-turn-word.mp3",
+        "navajo": "nídeesxis",
+        "english": "I will turn it around",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "recw7HXvHcqDd5VZK",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "neisxiz-turned-word.mp3",
+        "navajo": "néísxiz",
+        "english": "he turned it around",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "rec7rWDx6tgC5xd2S",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "nidiisxi-killing-word.mp3",
+        "navajo": "ni'diisxį́",
+        "english": "it is killing you",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "recMrmmd7VbDQ0PIb",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "shiisxi-killed-word.mp3",
+        "navajo": "shiisxį́",
+        "english": "it killed me",
+        "pagesConversation": "24"
+      }
+    },
+    {
+      "id": "recZjJxcg2FgxvUJ8",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "naahaash-walking-word.mp3",
+        "navajo": "naah'aash",
+        "english": "you (2) are walking around",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "rec6G2OOcGtxk1yM5",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "naaash-walking-word.mp3",
+        "navajo": "naa'ash",
+        "english": "they (2) are walking around",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "recp07JEvBCgmAAER",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "doohash-go-word.mp3",
+        "navajo": "dooh'ash",
+        "english": "you (2) will go",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "rec9VRvZ1RcPVHxPm",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dooash-go-word.mp3",
+        "navajo": "doo'ash",
+        "english": "they (2) will go",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "recwDGZKEtNts9EDX",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ndinoohtiil-teach-word.mp3",
+        "navajo": "n'dínóohtįįł",
+        "english": "you (2) will teach",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "rec6jbUSHjODV6ZzY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ndinootiil-teach-word.mp3",
+        "navajo": "n'dínóotįįł",
+        "english": "they (2) will teach",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "recVN1jzeTSRk0dni",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "adoohdliil-drink-word.mp3",
+        "navajo": "adoohdlį́į́ł",
+        "english": "you (2) will drink",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "recufE7hsPotmeEGC",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "adoodliil-drink-word.mp3",
+        "navajo": "adoodlį́į́ł",
+        "english": "He will drink",
+        "pagesConversation": "25"
+      }
+    },
+    {
+      "id": "recJe71oe9ZrXnJHZ",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "latsaadah-eleven-word.mp3",
+        "navajo": "ła'ts'áadah",
+        "english": "eleven, 11",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "receZW5ouIIRoYnPz",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "lahda-sometimes-word.mp3",
+        "navajo": "łahda",
+        "english": "sometimes",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recR1S6x7CfTrZnro",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "alahaleeh-meeting-word.mp3",
+        "navajo": "áłah aleeh",
+        "english": "meeting",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recp1iqS421ZFCDf4",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ashiihlikan-sugar-word.mp3",
+        "navajo": "áshįįh łikan",
+        "english": "sugar",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recXdEtPjup7VtgNR",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dahsida-sitting-word.mp3",
+        "navajo": "dah sidá",
+        "english": "it is sitting",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recd6pSyYDfA76bXC",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bitah-among-word.mp3",
+        "navajo": "bitah",
+        "english": "among them",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recSN7sQiY6OpgSDm",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "dlohnizin-laughing-word.mp3",
+        "navajo": "dloh nízin",
+        "english": "he feels like laughing",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recbey3NbwogEvbJi",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "achiih-nose-word.mp3",
+        "navajo": "áchį́į́h",
+        "english": "nose",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recmDwNft0EJIn9tM",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "binahji-through-word.mp3",
+        "navajo": "binahjį",
+        "english": "through it",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recqKbxjkBmjjK3aY",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "deeh-tea-word.mp3",
+        "navajo": "dééh",
+        "english": "tea",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recCyPNQyqRTMAUx3",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "ch-eeh-vain-word.mp3",
+        "navajo": "ch'ééh",
+        "english": "in vain",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "rece1u82rTu9frH50",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "bilah-friend-word.mp3",
+        "navajo": "bilah",
+        "english": "his friend",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "reczphNLnmakiZx22",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "alaahdi-greatest-word.mp3",
+        "navajo": "aláahdi",
+        "english": "greatest",
+        "pagesConversation": "26"
+      }
+    },
+    {
+      "id": "recyrUZXiVf6yUQXL",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "eeaahgo-west-word.mp3",
+        "navajo": "e'e'aahgo",
+        "english": "west"
+      }
+    },
+    {
+      "id": "recSU9mfy4z8tj0eu",
+      "createdTime": "2022-12-14T21:02:42.000Z",
+      "fields": {
+        "audioFileName": "baah-bread-word.mp3",
+        "navajo": "bááh",
+        "english": "bread",
+        "pagesConversation": "26"
+      }
+    }
+  ]
+}
